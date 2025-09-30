@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Body -->
+  <ellipse cx="100" cy="120" rx="70" ry="30" fill="none" stroke="#000" stroke-width="3"/>
+  <!-- Tail -->
+  <path d="M30 120 Q20 110 30 100" fill="none" stroke="#000" stroke-width="3"/>
+  <path d="M30 120 Q20 130 30 140" fill="none" stroke="#000" stroke-width="3"/>
+  <!-- Eye -->
+  <circle cx="130" cy="110" r="5" fill="none" stroke="#000" stroke-width="3"/>
+  <!-- Water spout -->
+  <line x1="100" y1="90" x2="100" y2="70" stroke="#000" stroke-width="3"/>
+  <circle cx="100" cy="70" r="5" fill="none" stroke="#000" stroke-width="3"/>
+</svg>

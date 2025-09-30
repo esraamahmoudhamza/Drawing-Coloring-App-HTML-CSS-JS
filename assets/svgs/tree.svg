@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Trunk -->
+  <rect x="95" y="110" width="10" height="50" fill="none" stroke="#000" stroke-width="3"/>
+  <!-- Leaves -->
+  <circle cx="100" cy="90" r="30" fill="none" stroke="#000" stroke-width="3"/>
+  <circle cx="80" cy="110" r="20" fill="none" stroke="#000" stroke-width="3"/>
+  <circle cx="120" cy="110" r="20" fill="none" stroke="#000" stroke-width="3"/>
+</svg>

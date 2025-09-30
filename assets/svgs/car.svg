@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Body -->
+  <path d="M40 100 Q60 70 140 70 Q160 100 160 100 L160 130 L40 130 Z" fill="none" stroke="#000" stroke-width="3"/>
+  <!-- Windows -->
+  <path d="M60 70 Q90 50 140 70" fill="none" stroke="#000" stroke-width="3"/>
+  <!-- Wheels -->
+  <circle cx="60" cy="130" r="10" fill="none" stroke="#000" stroke-width="3"/>
+  <circle cx="140" cy="130" r="10" fill="none" stroke="#000" stroke-width="3"/>
+</svg>

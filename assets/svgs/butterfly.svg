@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Wings -->
+  <path d="M100 100 C50 50, 50 150, 100 150" fill="none" stroke="#000" stroke-width="3"/>
+  <path d="M100 100 C150 50, 150 150, 100 150" fill="none" stroke="#000" stroke-width="3"/>
+  <!-- Body -->
+  <line x1="100" y1="100" x2="100" y2="150" stroke="#000" stroke-width="3"/>
+  <!-- Antenna -->
+  <line x1="100" y1="100" x2="90" y2="90" stroke="#000" stroke-width="2"/>
+  <line x1="100" y1="100" x2="110" y2="90" stroke="#000" stroke-width="2"/>
+</svg>

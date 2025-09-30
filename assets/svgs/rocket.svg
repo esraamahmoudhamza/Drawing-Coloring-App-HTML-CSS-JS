@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Body -->
+  <path d="M100 10 C115 50, 115 150, 100 190 C85 150, 85 50, 100 10 Z" fill="none" stroke="#000" stroke-width="3"/>
+  <!-- Window -->
+  <circle cx="100" cy="80" r="15" fill="none" stroke="#000" stroke-width="3"/>
+  <!-- Fins -->
+  <path d="M85 150 L60 170 L85 170 Z" fill="none" stroke="#000" stroke-width="3"/>
+  <path d="M115 150 L140 170 L115 170 Z" fill="none" stroke="#000" stroke-width="3"/>
+  <!-- Flame -->
+  <path d="M90 190 L100 210 L110 190 Z" fill="none" stroke="#000" stroke-width="3"/>
+</svg>
